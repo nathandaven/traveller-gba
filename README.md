@@ -41,4 +41,16 @@
 - Gruelsome mode converts all the villages to be hostile to the player, an the player can basically go murder everyone in the towns for money. 
 - The game is still able to be won in the dungeon, but the player is super charged so the game becomes ridiculously easy.
 
+## Gameplay Pictures
+![instruction screen](./images/instructions.png)
+
+![map screen](./images/map.png)
+
+![town screen](./images/town.png)
+
+![dungeon screen](./images/dungeon.png)
+
+![chat screen](./images/chat.png)
+
+
 ## Enjoy!! ##
