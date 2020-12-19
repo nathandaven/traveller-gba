@@ -4,7 +4,7 @@
 *By: Nathan Davenport*
 
 
-**Welcome to my game! **
+**Welcome to my game!**
 
 ## Objectives:
     - Multiple quests to complete across the map.
