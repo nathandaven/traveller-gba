@@ -8,8 +8,8 @@
 **Welcome to my game!**
 
 ## Requirements
-    - A Gameboy Advance remulator is required
-    - Visualboy Advacne is reccomend on the desktop, foudn on Windows, MacOS, and Linux distros: https://vba-m.com
+- A Gameboy Advance remulator is required
+- Visualboy Advacne is reccomend on the desktop, foudn on Windows, MacOS, and Linux distros: https://vba-m.com
 
 ## Objectives:
     - Multiple quests to complete across the map.
