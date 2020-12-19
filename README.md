@@ -1,5 +1,7 @@
 # Traveller - The Quest For Mead
 
+![title screen](./images/title.png)
+
 *Final Project for CS 2261*
 
 *By: Nathan Davenport*
