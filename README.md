@@ -11,7 +11,7 @@
 
 ## Requirements
 - A Gameboy Advance emulator is required
-- Visualboy Advance is reccomend on the desktop, found on Windows, MacOS, and Linux distros: [https://vba-m.com](https://vba-m.com)
+- Visualboy Advance is reccomended on the desktop, found on Windows, MacOS, and Linux distros: [https://vba-m.com](https://vba-m.com)
 
 ## Objectives:
 - Multiple quests to complete across the map.
