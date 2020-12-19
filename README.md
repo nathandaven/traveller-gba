@@ -7,6 +7,10 @@
 
 **Welcome to my game!**
 
+## Requirements
+    - A Gameboy Advance remulator is required
+    - Visualboy Advacne is reccomend on the desktop, foudn on Windows, MacOS, and Linux distros: https://vba-m.com
+
 ## Objectives:
     - Multiple quests to complete across the map.
     - Once the player earns three keys, they may enter the dungeon and beat the final boss.
