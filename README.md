@@ -6,9 +6,8 @@
 
 *By: Nathan Davenport*
 
-(yes I know Traveller is misspelled, that is intentional)
+**Welcome to my game!** (yes I know Traveller is misspelled, that is intentional)
 
-**Welcome to my game!**
 
 ## Requirements
 - A Gameboy Advance emulator is required
