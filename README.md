@@ -8,6 +8,12 @@
 
 **Welcome to my game!** 
 
+## NEW! - play online using gba.ninja
+
+https://gba.ninja/?autorun=https://nathandaven.com/traveller-quest-for-mead.gba&exclusive
+
+Check out this link to play in the browser! Click "Run Anyway" once opening, and press escape to see controls!
+
 
 ## Requirements
 - A Gameboy Advance emulator is required
