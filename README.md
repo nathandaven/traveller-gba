@@ -8,11 +8,11 @@
 
 **Welcome to my game!** 
 
-## NEW! - play online using gba.ninja
+## NEW! - play online using CS 2261 Hall of Fame
 
-https://gba.ninja/?autorun=https://nathandaven.com/traveller-quest-for-mead.gba&exclusive
+https://gbagt.org/gallery/player.html?project=Traveller
 
-Check out this link to play in the browser! Click "Run Anyway" once opening, and press escape to see controls!
+Check out this link to play in the browser! Thanks to Aaron and others for developing the [CS 2261 Hall of Fame Website](https://gbagt.org/), I reccomend checking out the other games!
 
 
 ## Requirements
